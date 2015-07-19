@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mobilesafe/!svn/ver/27/src/com/itheima/mobileguard/db/dao
+END
+NumberAddressDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mobilesafe/!svn/ver/43/src/com/itheima/mobileguard/db/dao/NumberAddressDao.java
+END
+AntiVirusDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mobilesafe/!svn/ver/87/src/com/itheima/mobileguard/db/dao/AntiVirusDao.java
+END
+BlackNumberDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobilesafe/!svn/ver/35/src/com/itheima/mobileguard/db/dao/BlackNumberDao.java
+END
+ApplockDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mobilesafe/!svn/ver/82/src/com/itheima/mobileguard/db/dao/ApplockDao.java
+END

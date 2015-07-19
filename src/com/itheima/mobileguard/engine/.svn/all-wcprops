@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mobilesafe/!svn/ver/17/src/com/itheima/mobileguard/engine
+END
+ContactInfoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mobilesafe/!svn/ver/17/src/com/itheima/mobileguard/engine/ContactInfoParser.java
+END
+AppInfoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mobilesafe/!svn/ver/64/src/com/itheima/mobileguard/engine/AppInfoParser.java
+END
+TaskInfoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobilesafe/!svn/ver/69/src/com/itheima/mobileguard/engine/TaskInfoParser.java
+END
